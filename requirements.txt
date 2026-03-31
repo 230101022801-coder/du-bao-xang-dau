@@ -4,5 +4,5 @@ matplotlib
 statsmodels
 scikit-learn
 numpy
-tensorflow
+tensorflow-cpu
 openpyxl
